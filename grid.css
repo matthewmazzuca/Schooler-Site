@@ -16,14 +16,14 @@ h2 {
 }
 
 .tabs {
-  background-color: #B0B0B0;
+  background-color: #F0F0F0;
 }
 
 .tabs dd > a, .tabs .tab-title > a {
   outline: none;
   border-right: solid;
   border-width: .1em;
-  background-color: #585858;
+  background-color: #C0C0C0;
   border-color: #D8D8D8;
 }
 
