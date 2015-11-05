@@ -1,0 +1,85 @@
+.theatre {
+  background-color: black; 
+}
+
+.flex-video {
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.tabs {
+  background-color: #F0F0F0;
+}
+
+.tabs dd > a, .tabs .tab-title > a {
+  outline: none;
+  border-right: solid;
+  border-width: .1em;
+  background-color: #C0C0C0;
+  border-color: #D8D8D8;
+}
+
+.tabs-content {
+  padding-left: 1em;
+}
+
+.QA {
+  padding: 0;
+  background-color: white;
+}
+
+h5 {
+  padding-left: 1.1em;
+  padding-top: 1em;
+  font-size: .9em;
+}
+
+.vidicon {
+  padding-top: 0em;
+  padding-bottom: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  background-color: white;
+  border: none;
+  font-size: .9em;
+}
+
+
+body {
+  background: #F0F0F3;
+}
+
+.login-box {
+  background: #fff;
+  border: .1em solid #ddd; 
+  margin: 5em 0;
+  padding: 1.5em 1em 0 1em;
+  box-shadow: .3em .3em .15em gray;
+}
+
+.button, .login-box {
+  border-radius: .3em;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: #2ba6cb;
+  margin-top: 0em;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+  display: block;
+  margin: auto;
+margin-top: -1em;
+}
+
+
+
+
